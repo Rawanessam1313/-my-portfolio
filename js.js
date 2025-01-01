@@ -1,5 +1,4 @@
-
-( () => {
+(() => {
     var e = {
         945: function(e, t, n) {
             e.exports = function() {
