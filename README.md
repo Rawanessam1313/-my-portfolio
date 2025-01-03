@@ -9,5 +9,5 @@ This is my personal website, where I display my experiences and projects.
 
 
 
-## Local Image
+
 ![](images/image1.gif)
